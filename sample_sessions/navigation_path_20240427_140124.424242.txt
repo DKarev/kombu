@@ -1,0 +1,13 @@
+Node: Home	Full URL: /
+Node: Men	Full URL: /men
+Node: Nike React Phantom Run Flyknit 2	Full URL: /men/nike-react-phantom-run-flyknit-2-179
+Node: Size X	Full URL: /men/nike-react-phantom-run-flyknit-2-179?size=4
+Node: Color Green	Full URL: /men/nike-react-phantom-run-flyknit-2-179?size=4&color=17
+Node: Cart	Full URL: /cart
+Node: Home	Full URL: /
+Node: Women	Full URL: /women
+Node: Alphaedge 4d Reflective Shoes R	Full URL: /women/alphaedge-4d-reflective-shoes-23
+Node: Size XL	Full URL: /women/alphaedge-4d-reflective-shoes-23?size=26
+Node: Color White	Full URL: /women/alphaedge-4d-reflective-shoes-23?size=26&color=18
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
