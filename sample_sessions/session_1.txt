@@ -1,0 +1,37 @@
+# Explanation
+1. Navigate to Home page.
+2. View product "striped-cotton-sweater".
+3. Navigate to Cart page.
+4. Navigate to Checkout page
+5. Navigate to Home page.
+6. Navigate to Login page.
+7. Navigate to Home page.
+
+# Raw Logs
+
+[GET] /
+[GET] /homepage.js
+
+[GET] /striped-cotton-sweater
+[GET] /productView.js
+
+[GET] /cart
+[GET] /cart.js
+
+[GET] /checkout
+[GET] /checkout.js
+[GET] /checkout?ajax=true
+[POST] /api/graphql
+[GET] /api/paymentMethods
+[GET] /checkout?ajax=true
+[GET] /api/shippingMethods/c3f61bd4-b6fc-4657-8e31-fa9bf08a98c5?country=null&province=
+
+[GET] /
+[GET] /homepage.js
+
+[GET] /account/login
+[GET] /login.js
+
+[GET] /
+[GET] /homepage.js
+
