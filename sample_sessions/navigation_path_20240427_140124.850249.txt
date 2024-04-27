@@ -1,0 +1,30 @@
+Node: Men	Full URL: /men
+Node: Strutter Shoes	Full URL: /men/strutter-shoes-45
+Node: Size L	Full URL: /men/strutter-shoes-45?size=6
+Node: Color Black	Full URL: /men/strutter-shoes-45?size=6&color=14
+Node: Size L	Full URL: /men/strutter-shoes-45?size=6
+Node: Color Gray	Full URL: /men/strutter-shoes-45?size=6&color=23
+Node: Size L	Full URL: /men/strutter-shoes-45?size=6
+Node: Color White	Full URL: /men/strutter-shoes-45?size=6&color=18
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Home	Full URL: /

@@ -1,0 +1,30 @@
+Node: Men	Full URL: /men
+Node: Strutter Shoes	Full URL: /men/strutter-shoes-45
+Node: Size XL	Full URL: /men/strutter-shoes-45?size=26
+Node: Color Gray	Full URL: /men/strutter-shoes-45?size=26&color=23
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Home	Full URL: /
+Node: Account Register	Full URL: /register
+Node: Home	Full URL: /
+Node: Women	Full URL: /women
+Node: Alphaedge 4d Reflective Shoes R	Full URL: /women/alphaedge-4d-reflective-shoes-23
+Node: Size XL	Full URL: /women/alphaedge-4d-reflective-shoes-23?size=26
+Node: Color White	Full URL: /women/alphaedge-4d-reflective-shoes-23?size=26&color=18
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout

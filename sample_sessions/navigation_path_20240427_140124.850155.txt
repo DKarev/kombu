@@ -1,0 +1,30 @@
+Node: Men	Full URL: /men
+Node: Home	Full URL: /
+Node: Women	Full URL: /women
+Node: Alphaedge 4d Reflective Shoes R	Full URL: /women/alphaedge-4d-reflective-shoes-23
+Node: Women	Full URL: /women
+Node: Home	Full URL: /
+Node: Women	Full URL: /women
+Node: Home	Full URL: /
+Node: Root	Full URL: 
+Node: Home	Full URL: /
+Node: Women	Full URL: /women
+Node: Edge Gameday Shoes	Full URL: /women/edge-gameday-shoes-30
+Node: Size S	Full URL: /women/edge-gameday-shoes-30?size=25
+Node: Color Black	Full URL: /women/edge-gameday-shoes-30?size=25&color=14
+Node: Size S	Full URL: /women/edge-gameday-shoes-30?size=25
+Node: Color White	Full URL: /women/edge-gameday-shoes-30?size=25&color=18
+Node: Size S	Full URL: /women/edge-gameday-shoes-30?size=25
+Node: Color Black	Full URL: /women/edge-gameday-shoes-30?size=25&color=14
+Node: Size S	Full URL: /women/edge-gameday-shoes-30?size=25
+Node: Color White	Full URL: /women/edge-gameday-shoes-30?size=25&color=18
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout

@@ -1,0 +1,30 @@
+Node: Men	Full URL: /men
+Node: Nike React Phantom Run Flyknit 2	Full URL: /men/nike-react-phantom-run-flyknit-2-179
+Node: Men	Full URL: /men
+Node: Nike React Phantom Run Flyknit 2	Full URL: /men/nike-react-phantom-run-flyknit-2-179
+Node: Size S	Full URL: /men/nike-react-phantom-run-flyknit-2-179?size=25
+Node: Color Green	Full URL: /men/nike-react-phantom-run-flyknit-2-179?size=25&color=17
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Home	Full URL: /
+Node: Women	Full URL: /women
+Node: Edge Gameday Shoes	Full URL: /women/edge-gameday-shoes-30
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color Black	Full URL: /women/edge-gameday-shoes-30?size=6&color=14
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color Red	Full URL: /women/edge-gameday-shoes-30?size=6&color=7
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color Black	Full URL: /women/edge-gameday-shoes-30?size=6&color=14
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color Black	Full URL: /women/edge-gameday-shoes-30?size=6&color=14
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color White	Full URL: /women/edge-gameday-shoes-30?size=6&color=18
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color White	Full URL: /women/edge-gameday-shoes-30?size=6&color=18

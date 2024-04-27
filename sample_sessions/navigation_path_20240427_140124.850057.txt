@@ -1,0 +1,30 @@
+Node: Men	Full URL: /men
+Node: Strutter Shoes	Full URL: /men/strutter-shoes-45
+Node: Size L	Full URL: /men/strutter-shoes-45?size=6
+Node: Color Black	Full URL: /men/strutter-shoes-45?size=6&color=14
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Checkout	Full URL: /cart/checkout
+Node: Cart	Full URL: /cart
+Node: Home	Full URL: /
+Node: Women	Full URL: /women
+Node: Edge Gameday Shoes	Full URL: /women/edge-gameday-shoes-30
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color Red	Full URL: /women/edge-gameday-shoes-30?size=6&color=7
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color White	Full URL: /women/edge-gameday-shoes-30?size=6&color=18
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color Red	Full URL: /women/edge-gameday-shoes-30?size=6&color=7
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color Black	Full URL: /women/edge-gameday-shoes-30?size=6&color=14
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color Blue	Full URL: /women/edge-gameday-shoes-30?size=6&color=8
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Edge Gameday Shoes	Full URL: /women/edge-gameday-shoes-30
+Node: Size L	Full URL: /women/edge-gameday-shoes-30?size=6
+Node: Color Red	Full URL: /women/edge-gameday-shoes-30?size=6&color=7
