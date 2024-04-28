@@ -1,4 +1,4 @@
-.PHONY: venv
+.PHONY: venv clean run-streamlit
 
 VENV_NAME?=venv
 REQUIREMENTS=requirements.txt
@@ -14,6 +14,9 @@ clean:
 	rm -rf sample_sessions/*
 	rm -rf $(VENV_NAME)
 	deactivate
+
+run-streamlit:
+	streamlit run streamlit/home_page.py
 
 help:
 	@echo "Makefile for managing a Python virtual environment"
